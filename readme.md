@@ -13,7 +13,7 @@
 PowerShell을 열고 프로젝트 폴더로 이동한 뒤:
 
 ```powershell
-cd C:\path\to\codexTest
+cd C:\path\to\tetris-codex
 python -m http.server 8000 --bind 127.0.0.1
 ```
 
